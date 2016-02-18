@@ -20,3 +20,5 @@ git checkout -b feature1
 Switched to a new branch "feature1"
 pull
 fccgf
+
+在master分支上修改了readme.txt
